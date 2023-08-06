@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 闫博
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
